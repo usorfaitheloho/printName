@@ -1,0 +1,1 @@
+document.write(" my name is faith usor");
